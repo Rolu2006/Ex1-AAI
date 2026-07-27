@@ -1,7 +1,7 @@
 <H3> Name : Somalaraju Rohini </H3>
 <H3>Register No. 212224240156</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE: 27-07-2026</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
     To create a bayesian Network for the given dataset in Python
